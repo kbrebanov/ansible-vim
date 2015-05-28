@@ -1,2 +1,5 @@
 ---
 # vars file for vim
+
+vim_packages:
+  - vim
