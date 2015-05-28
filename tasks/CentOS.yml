@@ -1,2 +1,7 @@
 ---
 # tasks file for vim (CentOS specific)
+
+- name: Install vim packages
+  yum: name={{ item }} state=present
+  with_items: vim_packages
+  tags: vim
