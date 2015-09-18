@@ -1,7 +1,7 @@
 vim
 ===
 
-[![Ansible Galaxy](https://img.shields.io/badge/galaxy-kbrebanov.vim-660198.svg)](https://galaxy.ansible.com/list#/roles/3952)
+[![Ansible Role](https://img.shields.io/ansible/role/3952.svg)](https://galaxy.ansible.com/list#/roles/3952)
 
 Installs vim
 
