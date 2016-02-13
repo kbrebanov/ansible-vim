@@ -1,7 +1,7 @@
 vim
 ===
 
-[![Ansible Role](https://img.shields.io/ansible/role/3952.svg)](https://galaxy.ansible.com/list#/roles/3952)
+[![Build Status](https://travis-ci.org/kbrebanov/ansible-vim.svg?branch=master)](https://travis-ci.org/kbrebanov/ansible-vim)
 
 Installs vim
 
